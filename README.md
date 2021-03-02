@@ -6,7 +6,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![Get string session](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png)](https://repl.it/@Abhimishra939/GENERATE-STRING/)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAbhimishra939%2FNobi%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FAbhimishra939%2FNobi)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://parseapi.back4app.com/classes/MyCustomClassName=https%3A%2F%2Fgithub.com%2FAbhimishra939%2FNobi%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FAbhimishra939%2FNobi)
 <p align="center">
   <a href="https://github.com/Abhimishra939/Nobi/fork">
     <img src="https://img.shields.io/github/forks/Abhimishra939/Nobi?label=Fork&style=social">
