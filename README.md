@@ -12,12 +12,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
     <img src="https://img.shields.io/github/forks/Abhimishra939/Nobi?label=Fork&style=social">
   </a>
   <a href="https://github.com/Abhimishra939/Nobi">
-    <img src="https://img.shields.io/github/stars/Abhimishra939/catuserbot?style=social">
-  </a>
-</p>
-
-
-[![catuserbot logo](https://telegra.ph/file/703677527caa0c1a8ce9e.jpg)](https://heroku.com/deploy?template=https://github.com/Abhimishra939/Nobi)
+    <img src="https://img.sh(https://heroku.com/deploy?template=https://github.com/Abhimishra939/Nobi)
 
 
 ### Join [here](https://t.me/Nobita121) for updates and tuts and [here](https://t.me/Nobita121) for discussion and bugs
